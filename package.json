@@ -13,6 +13,7 @@
 	"homepage": "https://github.com/convissor/toggle-system-colors",
 	"updateURL": "https://github.com/convissor/toggle-system-colors/raw/master/toggle-system-colors.xpi",
 	"main": "index.js",
+	"icon": "icon.png",
 	"engines": {
 		"firefox": ">=38.0a1",
 		"fennec": ">=38.0a1"
