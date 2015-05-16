@@ -4,6 +4,7 @@ Toggle System Colors Firefox Plugin
 A plugin for toggling the system colors on and off using CTRL-SHIFT-C.
 
 In Firefox 38, toggles between:
+-------------------------------
 
  * On:
    * Use system colors: checked

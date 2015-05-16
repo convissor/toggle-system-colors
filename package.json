@@ -1,10 +1,20 @@
 {
 	"name": "toggle-system-colors",
 	"title": "Toggle System Colors",
-	"id": "jid1-16AyphAU7OcqrQ",
+	"id": "toggle-system-colors@analysisandsolutions.com",
 	"description": "Use CTRL-SHIFT-C to toggle system colors on and off",
-	"author": "Daniel Convissor",
-	"license": "MPL 2.0",
-	"version": "0.1",
-	"homepage": "https://github.com/convissor/toggle-system-colors"
+	"author": {
+		"name": "Daniel Convissor",
+		"email": "danielc@analysisandsolutions.com",
+		"url": "https://www.analysisandsolutions.com/"
+	},
+	"license": "MPL-2.0",
+	"version": "1.0.0",
+	"homepage": "https://github.com/convissor/toggle-system-colors",
+	"updateURL": "https://github.com/convissor/toggle-system-colors/raw/master/toggle-system-colors.xpi",
+	"main": "index.js",
+	"engines": {
+		"firefox": ">=38.0a1",
+		"fennec": ">=38.0a1"
+	}
 }
