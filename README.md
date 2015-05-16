@@ -1,4 +1,5 @@
-= Toggle System Colors Firefox Plugin =
+Toggle System Colors Firefox Plugin
+===================================
 
 A plugin for toggling the system colors on and off using CTRL-SHIFT-C.
 
