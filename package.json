@@ -1,0 +1,10 @@
+{
+	"name": "toggle-system-colors",
+	"title": "Toggle System Colors",
+	"id": "jid1-16AyphAU7OcqrQ",
+	"description": "Use CTRL-SHIFT-C to toggle system colors on and off",
+	"author": "Daniel Convissor",
+	"license": "MPL 2.0",
+	"version": "0.1",
+	"homepage": "https://github.com/convissor/toggle-system-colors"
+}
