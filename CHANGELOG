@@ -1,0 +1,6 @@
+1.0.0
+* Initial Release
+
+2.0.0
+* Switch from CTRL-SHIFT-C to CTRL-ALT-SHIFT-C to prevent conflicts
+with Inspect Element in popups.

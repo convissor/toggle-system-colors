@@ -1,7 +1,7 @@
 var { Hotkey } = require("sdk/hotkeys");
 
 var toggleSystemColorsHotkey = Hotkey({
-    combo: "control-shift-c",
+    combo: "control-alt-shift-c",
     onPress: function() {
         var { get, set } = require("sdk/preferences/service");
         var existing = get("browser.display.use_system_colors");
